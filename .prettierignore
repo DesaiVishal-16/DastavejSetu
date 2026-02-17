@@ -1,0 +1,31 @@
+node_modules
+.pnp
+.pnp.*
+.yarn
+
+# Build outputs
+dist
+build
+.next
+out
+
+# Lock files
+*.lock
+pnpm-lock.yaml
+yarn.lock
+package-lock.json
+
+# Database
+drizzle
+*.db
+*.sqlite
+
+# IDE
+.vscode
+.idea
+
+# OS
+.DS_Store
+
+# Data files
+api-service/data
