@@ -198,10 +198,8 @@ export default function DashboardPage() {
             <h1 className="text-2xl font-semibold text-slate-900 dark:text-white">
               {t.dashboard.title}
             </h1>
-            <p className="text-sm text-slate-500 dark:text-zinc-400">
-              {t.dashboard.welcomeBack}
-              {user?.name ? `, ${user.name}` : ''}!{' '}
-              {t.dashboard.documentOverview}
+            <p className="text-sm font-medium text-[#124AB9]">
+              Table Extractor PRO
             </p>
           </div>
 
