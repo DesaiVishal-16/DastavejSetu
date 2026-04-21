@@ -29,7 +29,6 @@ yarn-error.log*
 .pnpm-debug.log*
 
 # env files
-.env*
 
 # vercel
 .vercel
@@ -59,9 +58,9 @@ dist/
 
 # IDE
 .idea/
-.vscode/
 *.swp
 *.swo
 
 # logs
 *.log
+config.bat
