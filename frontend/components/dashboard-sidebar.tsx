@@ -53,11 +53,11 @@ export function DashboardSidebar({ activePath }: DashboardSidebarProps) {
       <div className="flex h-20 items-center gap-3 border-b border-slate-200 px-6 dark:border-[#27272a]">
         <img
           src="/logo.png"
-          alt="DastavejSetu Logo"
+          alt="Udayam AI Labs Logo"
           className="h-10 w-10 object-contain"
         />
         <span className="text-lg font-semibold text-slate-900 dark:text-white">
-          DastavejSetu
+          Udayam AI Labs
         </span>
       </div>
 

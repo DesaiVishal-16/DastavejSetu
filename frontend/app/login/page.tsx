@@ -59,11 +59,11 @@ export default function LoginPage() {
           <Link href="/" className="flex items-center gap-3">
             <img
               src="/logo.png"
-              alt="DastavejSetu Logo"
+              alt="Udayam AI Labs Logo"
               className="h-12 w-12 object-contain"
             />
             <span className="text-lg font-semibold tracking-tight text-slate-900">
-              DastavejSetu
+              Udayam AI Labs
             </span>
           </Link>
           <Link
