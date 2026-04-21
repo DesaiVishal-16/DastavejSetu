@@ -164,14 +164,10 @@ export default function HistoryPage() {
       <main className="flex-1 overflow-auto">
         {/* Header */}
         <header className="flex h-20 items-center justify-between border-b border-slate-200 bg-white px-8 dark:border-[#27272a] dark:bg-[#18181b]">
-          <div className="flex items-center gap-4">
-            <Link
-              href="/dashboard"
-              className="flex items-center gap-2 text-sm font-medium text-slate-600 transition-colors hover:text-[#124AB9] dark:text-zinc-400"
-            >
-              <ArrowLeft className="h-4 w-4" />
-              {t.history.backToDashboard}
-            </Link>
+          <div>
+            <h1 className="text-2xl font-semibold text-[#124AB9]">
+              Table Extractor PRO
+            </h1>
           </div>
 
           <DropdownMenu>
