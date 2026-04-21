@@ -19,7 +19,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'DastavejSetu - OCR to Excel Converter',
+  title: 'Udayam AI Labs - OCR to Excel Converter',
   description:
     'Convert photos, PDFs, and scanned documents into structured Excel and other formats using advanced OCR technology.',
   icons: {
