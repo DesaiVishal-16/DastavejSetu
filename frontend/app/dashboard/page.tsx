@@ -195,12 +195,9 @@ export default function DashboardPage() {
         {/* Header */}
         <header className="flex h-20 items-center justify-between border-b border-slate-200 bg-white px-8 dark:border-[#27272a] dark:bg-[#18181b]">
           <div>
-            <h1 className="text-2xl font-semibold text-slate-900 dark:text-white">
-              {t.dashboard.title}
-            </h1>
-            <p className="text-sm font-medium text-[#124AB9]">
+            <h1 className="text-2xl font-semibold text-[#124AB9]">
               Table Extractor PRO
-            </p>
+            </h1>
           </div>
 
           <div className="flex items-center gap-4">
