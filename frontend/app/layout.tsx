@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   description:
     'Convert photos, PDFs, and scanned documents into structured Excel and other formats using advanced OCR technology.',
   icons: {
-    icon: '/favicon.png',
+    icon: '/logo.png',
   },
 };
 
